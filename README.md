@@ -12,4 +12,5 @@ Key Highlights:
 ~Facilitates better salary structuring and alignment with industry needs.
 
 Capstone Project Collab Notes: https://colab.research.google.com/drive/1TKMewv4mL4aG2R78CfukHOpt8Lbr5_A9?usp=sharing
+
 Project PPT: https://drive.google.com/file/d/1elQl2WWPwl6PKitfBATMPVG5vi0dsUDo/view?usp=sharing
